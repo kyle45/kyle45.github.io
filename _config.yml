@@ -103,4 +103,4 @@ theme: landscape
 deploy:
     type: git
     repo: https://github.com/kyle45/kyle45.github.io.git  # 替换成你的仓库地址
-    branch: main  # 注意：GitHub 新版默认分支是 main（旧版是 master，根据自己仓库调整）
+    branch: master  # 注意：GitHub 新版默认分支是 main（旧版是 master，根据自己仓库调整）
